@@ -1,4 +1,4 @@
-### Olá, seja Bem vindo(a) ao meu GitHub
+### Olá, seja Bem vindo(a) ao meu GitHub 😺
 
 <div align="center">
     <a href="https://github.com/htklucas">
