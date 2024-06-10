@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-## Tecnologias 
+<h1> Tecnologias </h1>
 </div>
 
 <div align="center" style="display: inline_block;"><br/>
