@@ -1,6 +1,6 @@
 ### Hello, welcome to my GitHub :D
 
-🥝 Hello, my name is Lucas and I'm 15 years old. At the moment I'm studying Development and Analysis of System at Senai. 
+🥝 Hello, my name is Lucas and I'm 16 years old. At the moment I'm studying Development and Analysis of System at Senai. 
 
 <div align="center">
     <a href="https://github.com/htklucas">
