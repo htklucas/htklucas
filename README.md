@@ -2,10 +2,6 @@
 
 Hello, my name is Lucas and I'm 17 years old. At the moment I'm studying Development and Analysis of System at Senai. 
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/6039b53264f439a36a93d2c16c995c850e6990e4dbc76ab3f565bdc09579331c/68747470733a2f2f6d656469612e74656e6f722e636f6d2f51714e74356d5730565259414141414d2f6361742e676966" width="250" />
-</div>
-
 <hr>
 
 <h2 align=center> Technologies </h2>
