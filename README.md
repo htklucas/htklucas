@@ -1,15 +1,20 @@
-### Hello, welcome to my GitHub
+# Hello, welcome to my GitHub 👋
 
-Hello, my name is Lucas and I'm 17 years old. At the moment I'm studying Development and Analysis of System at Senai. 
+My name is Lucas, I'm 17 years old, and I'm currently studying Systems Development and Analysis at SENAI.  
+I'm focused on improving my skills in software development, problem solving, and building modern web applications.
 
-<hr>
 
-<h2 align=center> Technologies </h2>
 
-<div align="center" style="display: inline_block;"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+## 🚀 Hard Skills
+
+<div align="center">
+
+<img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
+
+<img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript"/>
+
+<img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma"/>
+
+<img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL"/>
 
 </div>
